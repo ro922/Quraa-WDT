@@ -47,7 +47,7 @@ Stable internet connection
 6. Open your browser and go to the following URL: localhost/phpmyadmin
 7. Click on **New** and create a database named :quraa_db
 8. Import the `quraa_db` database file from the downloaded project files
-9. In the URL bar, type: localhost/Quraa-WDT
+9. In the URL bar, type: localhost/Quraa-WDT-Main
 10. Log in and start using the web application
 
 ## Features:
