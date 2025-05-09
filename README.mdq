@@ -2,11 +2,11 @@
 Quraa is a comprehensive Islamic web application designed to assist Muslims in reading,
 listening to, and memorizing the Holy Qur’an. It features real-time voice recognition to help users improve their pronunciation and recitation accuracy
 ## Link:
+https://github.com/ro922/Quraa-WDT
 
 ## Main Features:
 ## Qur’an Features:
 Read the Holy Qur’an with full Surah and Ayah navigation
-
 Listen to recitations by multiple famous Qaris
 View simplified Tafsir (interpretation) for each verse
 Search across the entire Qur’an by word or phrase
@@ -48,4 +48,19 @@ Stable internet connection
 8. Import the `quraa_db` database file from the downloaded project files
 9. In the URL bar, type: localhost/Quraa-WDT
 10. Log in and start using the web application
+
+## Features:
+- Real-time reading correction
+- Flexible pronunciation evaluation
+- User hints and guidance
+-The user can control the creation of a custom session for Quran recitation.
+-Track Quran recitation for 10-minute sessions and save progress
+-Recite daily Adhkar and save progress
+
+## Planned Enhancements
+Add display modes such as Dark Mode, Light Mode, and an interface suitable for color blindness
+Support for the Ten Qira'at (recitations) of the Holy Quran
+Increase the number of available Quran reciters (Sheikhs)
+Add a section for lessons on the Prophetic Biography (Seerah) and Islamic life, featuring prominent scholars and preachers
+
 
