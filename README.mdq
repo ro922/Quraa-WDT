@@ -1,0 +1,37 @@
+##Quraa Website
+Quraa is a comprehensive Islamic web application designed to assist Muslims in reading,
+listening to, and memorizing the Holy Qur’an. It features real-time voice recognition to help users improve their pronunciation and recitation accuracy
+## Main Features:
+## Qur’an Features:
+Read the Holy Qur’an with full Surah and Ayah navigation
+
+Listen to recitations by multiple famous Qaris
+View simplified Tafsir (interpretation) for each verse
+Search across the entire Qur’an by word or phrase
+Pronunciation correction using voice recognition
+
+## Athkar :
+Daily Athkar and authentic Islamic supplications
+Smart reminders for morning, evening, and prayer-time Athkar
+Repeat supplications a specified number of times
+
+## Khatma (Qur’an Completion Plans):
+Daily 10-minute recitation plan for consistency
+Manage your own Khatma sessions and track progress
+View detailed stats and reports on your Khatma progress
+
+## Technical Requirements
+## Server Requirements:
+PHP 7.0 or higher:
+MySQL 5.7 or higher
+Web server (Apache or XAMPP)
+Storage space: at least 500 MB
+RAM: at least 1 GB
+
+## Browser Requirements:
+A modern browser that supports JavaScript
+Support for Web Speech API
+Cookies must be enabled
+Support for HTML5 and CSS3
+Stable internet connection
+
