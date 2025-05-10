@@ -1,7 +1,8 @@
 ##Quraa Website
 Quraa is a comprehensive Islamic web application designed toIt encourages Muslims to read the Quran, listen to it,
 and read the supplications (adhkar), while keeping track of their progress. They can also easily access the interpretation (Tafseer) of the Quran.
-
+##link:
+https://github.com/yomna-dahab990/quraa
 ## Main Features:
 ## Qur’an Features:
 Read the Holy Qur’an with full Surah and Ayah navigation
@@ -38,6 +39,7 @@ Stable internet connection
 ## Installation Steps:
 1. Install XAMPP
 2. Start **Apache** and **MySQL** from XAMPP
+3.Click on the link at the top of this file
 4. Click on **Code** and download the project as a **ZIP file**
 5. Extract the ZIP file into the **htdocs** folder located inside the **XAMPP** folder in drive C
 6. Open your browser and go to the following URL: localhost/phpmyadmin
