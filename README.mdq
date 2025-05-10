@@ -51,14 +51,14 @@ Stable internet connection
 10. Log in and start using the web application
 
 ## Features:
-- Real-time reading correction
 - Flexible pronunciation evaluation
 - User hints and guidance
 -The user can control the creation of a custom session for Quran recitation.
 -Track Quran recitation for 10-minute sessions and save progress
 -Recite daily Adhkar and save progress
 
-## Planned Enhancements
+## Planned Enhancements:
+- Real-time reading correction
 -Add display modes such as Dark Mode, Light Mode, and an interface suitable for color blindness
 -Support for the Ten Qira'at (recitations) of the Holy Quran
 -Increase the number of available Quran reciters (Sheikhs)
